@@ -4,7 +4,6 @@
   "description": "YourVoice Manager - Voice Communication Platform Backend",
   "scripts": {
     "test": "jest",
-    "prepare": "husky install",
     "lint": "eslint .",
     "pretty": "prettier --write --ignore-unknown .",
     "typecheck": "tsc --noEmit -p tsconfig.json",
